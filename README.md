@@ -33,7 +33,7 @@ Foi identificado o serviço OpenSSH na máquina Ubuntu, na porta 22/tcp, com a v
 
 ![Resultado da identificação SSH com Nmap](evidencia-nmap-ssh.png)
 
-## 5. Resultados e aprendizados
+## 5. Resultados 
 Durante esta etapa do projeto, foram obtidos os seguintes resultados:
 - Identificação dos dispositivos ativos no laboratório.
 - Reconhecimento dos serviços disponíveis na máquina Ubuntu.
