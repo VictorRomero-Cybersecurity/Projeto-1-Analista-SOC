@@ -39,8 +39,6 @@ Durante esta etapa do projeto, foram obtidos os seguintes resultados:
 - Reconhecimento dos serviços disponíveis na máquina Ubuntu.
 - Identificação da porta 22 aberta.
 - Detecção do serviço SSH e sua versão utilizando o Nmap.
-  
-Aprendizados
 
 A atividade permitiu compreender como realizar o reconhecimento de uma rede e identificar serviços em execução.
 
