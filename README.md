@@ -39,7 +39,9 @@ Durante esta etapa do projeto, foram obtidos os seguintes resultados:
 - Reconhecimento dos serviços disponíveis na máquina Ubuntu.
 - Identificação da porta 22 aberta.
 - Detecção do serviço SSH e sua versão utilizando o Nmap.
+  
 Aprendizados
+
 A atividade permitiu compreender como realizar o reconhecimento de uma rede e identificar serviços em execução.
 
 Em um ambiente SOC, essas informações ajudam a conhecer os ativos da infraestrutura, identificar serviços expostos e apoiar a análise de possíveis riscos de segurança.
